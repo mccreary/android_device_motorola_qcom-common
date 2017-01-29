@@ -3,7 +3,7 @@ lib/libalsautils.so
 lib/libaudioalsa.so
 
 # Bluetooth
-bin/btnvtool
+#bin/btnvtool
 bin/hci_qcomm_init
 
 # DRM (from mako)
@@ -53,8 +53,8 @@ lib/libOmxQcelp13Dec.so
 lib/libOmxWmaDec.so
 
 # Moto
-bin/aplogd
-bin/dbvc_atvc_property_set
+#bin/aplogd
+#bin/dbvc_atvc_property_set
 bin/hardware_revisions.sh
 
 # Perf
@@ -68,10 +68,10 @@ lib/libmm-abl-oem.so
 bin/irsc_util
 
 # Radio
-bin/bootmodem
+#bin/bootmodem
 bin/efsks
-bin/ks
-bin/qcks
+#bin/ks
+#bin/qcks
 bin/radish
 etc/permissions/qcnvitems.xml
 etc/permissions/qcrilhook.xml
@@ -79,7 +79,7 @@ lib/libadropbox.so
 
 # Time services
 -app/TimeService/TimeService.apk
-bin/time_daemon
+#bin/time_daemon
 -lib/libtime_genoff.so
 lib/libTimeService.so
 
